@@ -1,0 +1,12 @@
+*.pyc
+/db.sqlite3
+**/migrations/*_*.py
+/static
+/target/
+.classpath
+.project
+/.settings/
+/logs/
+/.idea/
+*.iml
+*.log
